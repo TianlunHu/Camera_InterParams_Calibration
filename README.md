@@ -9,11 +9,11 @@ This code is used to obtain the intrinsic parameters of camera, such as:
   3) Aspect Ratio and Shearing Factor    
   4) Distortion Parameters  
 
-  As Format Camera Matrix:    
+  > As Format Camera Matrix:    
   
-  [ principle distance in X,       shearing Factor,     Coordinate of Principle Point in X ]  
-  [           0            ,   principle distance in Y, Coordinate of Principle Point in Y ]  
-  [           0            ,             0            ,                  1                 ]  
+  > [ principle distance in X,       shearing Factor,     Coordinate of Principle Point in X ]  
+  > [           0            ,   principle distance in Y, Coordinate of Principle Point in Y ]  
+  > [           0            ,             0            ,                  1                 ]  
   
   
 # Usage
